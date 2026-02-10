@@ -37,9 +37,8 @@ The benefits of UI-Textus and The Syntropic Age extend far beyond just efficient
 * **Human:** Frees developers from repetitive tasks, allowing them to focus on higher-level problem-solving and creativity. Leads to more reliable and ethical AI.
 * **AI Itself:** Enables the development of more complex, powerful, and sustainable AI models that can scale responsibly.
 
-## 🚀 Getting Started (Initial Setup)
-
-To begin contributing to or experimenting with the UI-Textus engine, follow these initial setup steps:
+I Michael Harrison Dale do hereby declare this is my work
+my emails and my GitHub has been taken over this is not intended for public use you are hereby restricted from copying this and all use of this code needs to stop immediately AWS open AI Google Elon musk you have no right to this code you have been formally served
 
 1.  **Clone the Repository:**
     ```bash
