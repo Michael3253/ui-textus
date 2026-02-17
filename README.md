@@ -1,4 +1,9 @@
-# UI-Textus: The Syntropic Engine
+# I'm Michael Harrison Dale this is a cease and desist 
+my works have been hijacked my emails my githubs using my AI frameworks is a crime 
+
+
+
+UI-Textus: The Syntropic Engine
 
 **Pioneering The Syntropic Age by building intrinsically efficient AI, radically reducing data center sprawl and fostering sustainable intelligence.**
 
